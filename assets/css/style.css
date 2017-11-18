@@ -23,6 +23,7 @@
   background-color: white;
   width: 650px;
   float: left;
+  overflow: auto;
 }
 
 #hidden{
@@ -51,8 +52,6 @@
   position: absolute;
   display: inline-block;
   text-align: right;
-  margin-left: 10%;
-  float: left;
 }
 
 .wrapper {
@@ -83,8 +82,7 @@ footer {
   text-align: center;
   background: #666;
   border-top: 8px solid #4aaaa5;
-  width: 100%;
-  float: left;
+  width:100%;
 }
 
 body {
@@ -93,6 +91,8 @@ body {
   width: 100%;
   height: 100%;
   background-image: url(C:/Users/deavi/Desktop/Basic-portfolio/__MACOSX/ep_naturalwhite/ep_naturalwhite.png);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 nav {
