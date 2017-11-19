@@ -9,6 +9,10 @@
   margin: 0;
 }
 
+.font-family{
+  font-family: "Arial", Arial, Helvetica Neue, Helvetica, san-serif;
+}
+
 .nav {
   color: gray;
   max-width: 960px;
@@ -55,6 +59,10 @@
   width: 960px;
   display: inline-block;
   padding-left: 10%;
+}
+
+.images{
+  position: center;
 }
 
 .image-1{
