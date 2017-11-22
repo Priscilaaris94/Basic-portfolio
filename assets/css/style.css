@@ -101,7 +101,7 @@ body {
   display: block;
   width: 100%;
   height: 100%;
-  background-image: url(C:/Users/deavi/Desktop/Basic-portfolio/__MACOSX/ep_naturalwhite/ep_naturalwhite.png);
+  background-image: url('../images/ep_naturalwhite/ep_naturalwhite.png');
   margin-left: auto;
   margin-right: auto;
 }
